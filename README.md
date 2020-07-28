@@ -1,7 +1,6 @@
 # brain_practice
 ## OpenNEURO
-### Visual image reconstruction
-https://openneuro.org/datasets/ds000255/versions/00002
+### [Visual image reconstruction](https://openneuro.org/datasets/ds000255/versions/00002)
 
 uploaded by Franklin Feingold on 2018-03-29 - over 2 years ago
 神谷先生(京大)
